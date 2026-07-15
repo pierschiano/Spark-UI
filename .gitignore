@@ -1,0 +1,17 @@
+
+# Created by https://www.gitignore.io/api/intellij,eclipse,scala,java,linux,windows,osx,jboss,linux,linux,linux
+
+/.idea/
+
+src/main/resource/test.support.common.conf
+src/main/resource/test.support.env.conf
+src/main/resource/test.support.conf
+
+*.2delete
+*.iml
+target/
+pom.xml.versionsBackup
+
+.github/
+
+test.env.properties
